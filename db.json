@@ -695,7 +695,92 @@
     }
   ],
   "properties": [
-    
+    {
+      "id": "1",
+      "uid": "GE-200116O3883",
+      "slug": "GE-200116O3883",
+      "title": "Saqib House",
+      "intro": "Wonderful investment",
+      "intro_ur": "منافع بخش سرمایہ کاری کا موقع۔",
+      "description": "Description",
+      "description_ur": "منافع بخش سرمایہ کاری کا موقع۔",
+      "elevation": "https://res.cloudinary.com/gmbhatti/image/upload/v1/media/ge/2019-10-14-at-3.38.30-PM1_eojcaj.jpg",
+      "structure": "HOUSE",
+      "offered_for": "SALE",
+      "currency": "Rs ",
+      "demand": 30000000,
+      "sold_price": null,
+      "sold_date": "2022-03-03T00:00:00.000Z",
+      "measure": "sft",
+      "covered_area": 9000,
+      "front_size": 45,
+      "constructed_area": 6500,
+      "construction_type": "Plot",
+      "construction_year": "NA",
+      "bedCount": 0,
+      "bathCount": 0,
+      "kitchenCount": 0,
+      "parkingCount": 0,
+      "garageCount": 0,
+      "features": "lawn, terrace",
+      "amenities": "school, grocery store,",
+      "tags": "residential",
+      "longitude": 73.06801,
+      "latitude": 33.626833,
+      "link": null,
+      "createdAt": "2021-09-18T00:00:00.000Z",
+      "updatedAt": "2022-11-13T00:00:00.000Z",
+      "locality": {
+        "name": "Shah Allah Ditta"
+      },
+      "city": {
+        "name": "Islamabad",
+        "measure": "sft",
+        "measureSize": 225,
+        "country": {
+          "name": "Pakistan"
+        }
+      },
+      "snaps": [
+        {
+          "title": "Faaeda - ",
+          "image": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/11.jpg",
+          "alt": ""
+        },
+        {
+          "title": "Faaeda - ",
+          "image": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/28.jpg",
+          "alt": ""
+        },
+        {
+          "title": "Faaeda - ",
+          "image": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/24.jpg",
+          "alt": ""
+        }
+      ],
+      "agent": {
+        "id": "ckw40ul0c0006jwhdguys10os",
+        "phones": "+92-",
+        "self": {
+          "email": "starjaidadpk@gmail.com",
+          "name": "Starjaidad Pakistan",
+          "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c"
+        }
+      },
+      "agency": {
+        "id": "ckw40ul0c0006jwnkjys10os",
+        "name": "General Marketing",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPryOaco-btzZniUbdJ4sHTnSz4_U5kvzoAQ&usqp=CAU",
+        "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c",
+        "intro": "Agent works independly",
+        "email": "@gmail.com",
+        "contacts": "+92-",
+        "address": "Lahore, islamabad",
+        "longitude": 74.12331,
+        "latitude": 32.12331
+      },
+      "reviews": []
+    }
   ]
   
 }
