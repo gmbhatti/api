@@ -8,8 +8,502 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  
-
-}
-
+  "profile": {
+    "id": "ckw40ul0c0006jwhdguys10os",
+    "firstName": "Star",
+    "lastName": "Jaidad",
+    "role": "admin",
+    "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c",
+    "profile": null,
+    "agency": {
+      "id": "ckw40ul0c0006jwhlluys10os",
+      "slug": "geberal",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPryOaco-btzZniUbdJ4sHTnSz4_U5kvzoAQ&usqp=CAU",
+      "name": "Independent working",
+      "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c",
+      "intro": "Keen to serve the professional real estate services",
+      "ownerId": "ckw40ul0c0006jwhdguys10os",
+      "contacts": "042-3534545164",
+      "email": "info@gm.com.pk",
+      "address": "Lahore, islamabad",
+      "longitude": 74.13321,
+      "latitude": 32.32142,
+      "localityId": null,
+      "createdAt": "2021-12-01T00:00:00.000Z",
+      "updatedAt": "2021-12-01T00:00:00.000Z"
+    },
+    "blogs": [{"id":"ckw40ul0c0006jwhdguys10os"}],
+    "posts": [{"id":"ckw40ul0c0006jwhdguys10os"}],
+    "searches": [
+      {
+        "id": 1,
+        "queryStr": "offered_for:Sale,property_type:House,city:Lahore",
+        "userId": "ckw40ul0c0006jwhdguys10os"
+      }
+    ]
+  },
+  "users": [
+    {
+      "id": "ckw40ul0c0006jwhdguys10os",
+      "firstName": "Star",
+      "lastName": "Jaidad",
+      "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c"
+    },
+    {
+      "id": "ckw457fjm0016d4hdzqndqqls",
+      "firstName": "Faaeda",
+      "lastName": "4all",
+      "image": "https://lh3.googleusercontent.com/a-/AOh14Gga1uu9NVDJB7HkEUTLA8bkFDjkJACsBQGW7nzg=s96-c"
+    },
+    {
+      "id": "ckw46xb7f0072d4hd52gmmslo",
+      "firstName": "GM",
+      "lastName": "Bhatti",
+      "image": "https://avatars.githubusercontent.com/u/6984916?v=4"
+    },
+    {
+      "id": "ckw5d0x9v0081kkhd0q1tm7xt",
+      "firstName": "GM",
+      "lastName": "Bhatti",
+      "image": "https://pbs.twimg.com/profile_images/1238347254978818048/a4PEFngq.jpg"
+    },
+    {
+      "id": "ckwn2oi5z000608lcldb3tak8",
+      "firstName": null,
+      "lastName": null,
+      "image": "https://avatars.githubusercontent.com/u/93534370?v=4"
+    },
+    {
+      "id": "ckwrvjnrd000608l7r3txfkgc",
+      "firstName": null,
+      "lastName": null,
+      "image": "https://pbs.twimg.com/profile_images/1238347254978818048/a4PEFngq.jpg"
+    },
+    {
+      "id": "ckz9d283l0006f6lj4api1ubs",
+      "firstName": null,
+      "lastName": null,
+      "image": "https://lh3.googleusercontent.com/a/AATXAJyg5tFgEN3S5MVKNU2OG2H62PggjGG-xRpCC_c6=s96-c"
+    },
+    {
+      "id": "ckz9d2u240026f6ljwgw8fky7",
+      "firstName": null,
+      "lastName": null,
+      "image": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=718974352421896&height=50&width=50&ext=1646628826&hash=AeR8193CXpcEA2vU2oE"
+    },
+    {
+      "id": "cl04dvg6l000848ljqs1l8r8a",
+      "firstName": "faaeda",
+      "lastName": "com",
+      "image": "https://pbs.twimg.com/profile_images/1238347254978818048/a4PEFngq.jpg"
+    },
+    {
+      "id": "cl73m4h1x000609l8a73aifr4",
+      "firstName": "faaeda",
+      "lastName": "com",
+      "image": "https://pbs.twimg.com/profile_images/1238347254978818048/a4PEFngq.jpg"
+    },
+    {
+      "id": "cldblb2oc0000l508oe3bdq2d",
+      "firstName": "GM",
+      "lastName": "Bhatti",
+      "image": null
+    }
+  ],
+  "properties": [
+  {
+    "id": "1",
+    "uid": "GE-200116O3883",
+    "slug": "GE-200116O3883",
+    "title": "Saqib House",
+    "intro": "Wonderful investment",
+    "intro_ur": "منافع بخش سرمایہ کاری کا موقع۔",
+    "description": "Description",
+    "description_ur": "منافع بخش سرمایہ کاری کا موقع۔",
+    "elevation": "https://res.cloudinary.com/gmbhatti/image/upload/v1/media/ge/2019-10-14-at-3.38.30-PM1_eojcaj.jpg",
+    "structure": "HOUSE",
+    "offered_for": "SALE",
+    "currency": "Rs ",
+    "demand": 30000000,
+    "sold_price": null,
+    "sold_date": "2022-03-03T00:00:00.000Z",
+    "measure": "sft",
+    "covered_area": 9000,
+    "front_size": 45,
+    "constructed_area": 6500,
+    "construction_type": "Plot",
+    "construction_year": "NA",
+    "bedCount": 0,
+    "bathCount": 0,
+    "kitchenCount": 0,
+    "parkingCount": 0,
+    "garageCount": 0,
+    "features": "lawn, terrace",
+    "amenities": "school, grocery store,",
+    "tags": "residential",
+    "longitude": 73.06801,
+    "latitude": 33.626833,
+    "link": null,
+    "createdAt": "2021-09-18T00:00:00.000Z",
+    "updatedAt": "2022-11-13T00:00:00.000Z",
+    "locality": {
+      "name": "Shah Allah Ditta"
+    },
+    "city": {
+      "name": "Islamabad",
+      "measure": "sft",
+      "measureSize": 225,
+      "country": {
+        "name": "Pakistan"
+      }
+    },
+    "snaps": [
+      {
+        "title": "Faaeda - ",
+        "image": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/11.jpg",
+        "alt": ""
+      },
+      {
+        "title": "Faaeda - ",
+        "image": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/28.jpg",
+        "alt": ""
+      },
+      {
+        "title": "Faaeda - ",
+        "image": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/24.jpg",
+        "alt": ""
+      }
+    ],
+    "agent": {
+      "id": "ckw40ul0c0006jwhdguys10os",
+      "phones": "+92-",
+      "self": {
+        "email": "starjaidadpk@gmail.com",
+        "name": "Starjaidad Pakistan",
+        "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c"
+      }
+    },
+    "agency": {
+      "id": "ckw40ul0c0006jwnkjys10os",
+      "name": "General Marketing",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPryOaco-btzZniUbdJ4sHTnSz4_U5kvzoAQ&usqp=CAU",
+      "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c",
+      "intro": "Agent works independly",
+      "email": "@gmail.com",
+      "contacts": "+92-",
+      "address": "Lahore, islamabad",
+      "longitude": 74.12331,
+      "latitude": 32.12331
+    },
+    "reviews": []
+  },
+  {
+    "id": "10386184",
+    "uid": "10386184",
+    "slug": "islamabad_f_7_brand_new_top_most_modern_architect_design_house_for_sale-10386184-165-1",
+    "title": "islamabad f 7 brand new top most modern architect design house for sale-10386184-165-1",
+    "intro": null,
+    "intro_ur": null,
+    "description": "islamabad f 7 brand new top most modern architect design house for sale-10386184-165-1",
+    "description_ur": null,
+    "elevation": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/15.jpg",
+    "structure": "HOUSE",
+    "offered_for": "SALE",
+    "currency": "Rs ",
+    "demand": 600000000,
+    "sold_price": null,
+    "sold_date": "2022-03-03T00:00:00.000Z",
+    "measure": "2 Kanal",
+    "covered_area": 10000,
+    "front_size": 45,
+    "constructed_area": null,
+    "construction_type": null,
+    "construction_year": null,
+    "bedCount": 7,
+    "bathCount": 1,
+    "kitchenCount": null,
+    "parkingCount": null,
+    "garageCount": null,
+    "features": null,
+    "amenities": " ",
+    "tags": null,
+    "longitude": 73.056493,
+    "latitude": 33.720413,
+    "link": null,
+    "createdAt": "2022-10-03T00:00:00.000Z",
+    "updatedAt": "2022-10-03T00:00:00.000Z",
+    "locality": {
+      "name": "Shah Allah Ditta"
+    },
+    "city": {
+      "name": "Islamabad",
+      "measure": "sft",
+      "measureSize": 225,
+      "country": {
+        "name": "Pakistan"
+      }
+    },
+    "snaps": [
+      {
+        "title": "Faaeda - ",
+        "image": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/13.jpg",
+        "alt": ""
+      },
+      {
+        "title": "Faaeda - ",
+        "image": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/19.jpg",
+        "alt": ""
+      }
+    ],
+    "agent": {
+      "id": "ckw40ul0c0006jwhdguys10os",
+      "phones": "+92-",
+      "self": {
+        "email": "starjaidadpk@gmail.com",
+        "name": "Starjaidad Pakistan",
+        "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c"
+      }
+    },
+    "agency": {
+      "id": "ckw40ul0c0006jwnkjys10os",
+      "name": "General Marketing",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPryOaco-btzZniUbdJ4sHTnSz4_U5kvzoAQ&usqp=CAU",
+      "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c",
+      "intro": "Agent works independly",
+      "email": "@gmail.com",
+      "contacts": "+92-",
+      "address": "Lahore, islamabad",
+      "longitude": 74.12331,
+      "latitude": 32.12331
+    },
+    "reviews": []
+  },
+  {
+    "id": "11116438",
+    "uid": "11116438",
+    "slug": "zamzama_navy_housing_scheme_zamzama_original_condition_cornor_house_available_for_rent-11116438-1508-4",
+    "title": "zamzama navy housing scheme zamzama original condition cornor house available for rent-11116438-1508-4",
+    "intro": null,
+    "intro_ur": null,
+    "description": "zamzama navy housing scheme zamzama original condition cornor house available for rent-11116438-1508-4",
+    "description_ur": null,
+    "elevation": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/15.jpg",
+    "structure": "HOUSE",
+    "offered_for": "RENT",
+    "currency": "Rs ",
+    "demand": 275000,
+    "sold_price": null,
+    "sold_date": "2022-03-03T00:00:00.000Z",
+    "measure": "350 Sq. Yd.",
+    "covered_area": 2800,
+    "front_size": 45,
+    "constructed_area": null,
+    "construction_type": null,
+    "construction_year": null,
+    "bedCount": 8,
+    "bathCount": 1,
+    "kitchenCount": null,
+    "parkingCount": null,
+    "garageCount": null,
+    "features": null,
+    "amenities": " ",
+    "tags": null,
+    "longitude": 67.039905,
+    "latitude": 24.823782,
+    "link": null,
+    "createdAt": "2022-10-03T00:00:00.000Z",
+    "updatedAt": "2022-10-03T00:00:00.000Z",
+    "locality": {
+      "name": "Shah Allah Ditta"
+    },
+    "city": {
+      "name": "Karachi",
+      "measure": "syd",
+      "measureSize": 225,
+      "country": {
+        "name": "Pakistan"
+      }
+    },
+    "snaps": [
+      {
+        "title": "Faaeda - ",
+        "image": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/9.jpg",
+        "alt": ""
+      },
+      {
+        "title": "Faaeda - ",
+        "image": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/11.jpg",
+        "alt": ""
+      }
+    ],
+    "agent": {
+      "id": "ckw40ul0c0006jwhdguys10os",
+      "phones": "+92-",
+      "self": {
+        "email": "starjaidadpk@gmail.com",
+        "name": "Starjaidad Pakistan",
+        "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c"
+      }
+    },
+    "agency": {
+      "id": "ckw40ul0c0006jwnkjys10os",
+      "name": "General Marketing",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPryOaco-btzZniUbdJ4sHTnSz4_U5kvzoAQ&usqp=CAU",
+      "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c",
+      "intro": "Agent works independly",
+      "email": "@gmail.com",
+      "contacts": "+92-",
+      "address": "Lahore, islamabad",
+      "longitude": 74.12331,
+      "latitude": 32.12331
+    },
+    "reviews": []
+  },
+  {
+    "id": "12005815",
+    "uid": "12005815",
+    "slug": "d_h_a_dha_phase_8_defence_highly_class_elegant_like_new_portion_available_for_rent_first_floor_available_in_attractive_rent-12005815-1485-4",
+    "title": "d h a dha phase 8 defence highly class elegant like new portion available for rent first floor available in attractive rent-12005815-1485-4",
+    "intro": null,
+    "intro_ur": null,
+    "description": "d h a dha phase 8 defence highly class elegant like new portion available for rent first floor available in attractive rent-12005815-1485-4",
+    "description_ur": null,
+    "elevation": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/15.jpg",
+    "structure": "UPORTION",
+    "offered_for": "RENT",
+    "currency": "Rs ",
+    "demand": 140000,
+    "sold_price": null,
+    "sold_date": "2022-03-03T00:00:00.000Z",
+    "measure": "500 Sq. Yd.",
+    "covered_area": 4500,
+    "front_size": 45,
+    "constructed_area": null,
+    "construction_type": null,
+    "construction_year": null,
+    "bedCount": 3,
+    "bathCount": 1,
+    "kitchenCount": null,
+    "parkingCount": null,
+    "garageCount": null,
+    "features": null,
+    "amenities": " ",
+    "tags": null,
+    "longitude": 67.074537,
+    "latitude": 24.782215,
+    "link": null,
+    "createdAt": "2022-10-03T00:00:00.000Z",
+    "updatedAt": "2022-10-03T00:00:00.000Z",
+    "locality": {
+      "name": "Shah Allah Ditta"
+    },
+    "city": {
+      "name": "Karachi",
+      "measure": "syd",
+      "measureSize": 225,
+      "country": {
+        "name": "Pakistan"
+      }
+    },
+    "snaps": [
+      {
+        "title": "Faaeda - ",
+        "image": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/27.jpg",
+        "alt": ""
+      }
+    ],
+    "agent": {
+      "id": "ckw40ul0c0006jwhdguys10os",
+      "phones": "+92-",
+      "self": {
+        "email": "starjaidadpk@gmail.com",
+        "name": "Starjaidad Pakistan",
+        "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c"
+      }
+    },
+    "agency": {
+      "id": "ckw40ul0c0006jwnkjys10os",
+      "name": "General Marketing",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPryOaco-btzZniUbdJ4sHTnSz4_U5kvzoAQ&usqp=CAU",
+      "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c",
+      "intro": "Agent works independly",
+      "email": "@gmail.com",
+      "contacts": "+92-",
+      "address": "Lahore, islamabad",
+      "longitude": 74.12331,
+      "latitude": 32.12331
+    },
+    "reviews": []
+  },
+  {
+    "id": "13348084",
+    "uid": "13348084",
+    "slug": "bahria_town_karachi_bahria_town_precinct_27_amazing_offered_house_is_available_for_sale_in_precinct_27-13348084-10040-1",
+    "title": "bahria town karachi bahria town precinct 27 amazing offered house is available for sale in precinct 27-13348084-10040-1",
+    "intro": null,
+    "intro_ur": null,
+    "description": "bahria town karachi bahria town precinct 27 amazing offered house is available for sale in precinct 27-13348084-10040-1",
+    "description_ur": null,
+    "elevation": "https://s3.amazonaws.com/retsly-importd-production/test_data/listings/15.jpg",
+    "structure": "HOUSE",
+    "offered_for": "SALE",
+    "currency": "Rs ",
+    "demand": 9000000,
+    "sold_price": null,
+    "sold_date": "2022-03-03T00:00:00.000Z",
+    "measure": "235 Sq. Yd.",
+    "covered_area": 2000,
+    "front_size": 45,
+    "constructed_area": null,
+    "construction_type": null,
+    "construction_year": null,
+    "bedCount": 3,
+    "bathCount": 1,
+    "kitchenCount": null,
+    "parkingCount": null,
+    "garageCount": null,
+    "features": null,
+    "amenities": " Other Healthcare and Recreation Facilities",
+    "tags": null,
+    "longitude": 67.338656,
+    "latitude": 25.071948,
+    "link": null,
+    "createdAt": "2022-10-03T00:00:00.000Z",
+    "updatedAt": "2022-10-03T00:00:00.000Z",
+    "locality": {
+      "name": "Shah Allah Ditta"
+    },
+    "city": {
+      "name": "Karachi",
+      "measure": "syd",
+      "measureSize": 225,
+      "country": {
+        "name": "Pakistan"
+      }
+    },
+    "snaps": [],
+    "agent": {
+      "id": "ckw40ul0c0006jwhdguys10os",
+      "phones": "+92-",
+      "self": {
+        "email": "starjaidadpk@gmail.com",
+        "name": "Starjaidad Pakistan",
+        "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c"
+      }
+    },
+    "agency": {
+      "id": "ckw40ul0c0006jwnkjys10os",
+      "name": "General Marketing",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPryOaco-btzZniUbdJ4sHTnSz4_U5kvzoAQ&usqp=CAU",
+      "image": "https://lh3.googleusercontent.com/a-/AOh14GjmQ71VIXUjIOsPeGofnZ7GzHb_w0jB58C7a_ujaQ=s96-c",
+      "intro": "Agent works independly",
+      "email": "@gmail.com",
+      "contacts": "+92-",
+      "address": "Lahore, islamabad",
+      "longitude": 74.12331,
+      "latitude": 32.12331
+    },
+    "reviews": []
+  }
+]
 }
